@@ -1,4 +1,3 @@
-git add -a
 git commit -m "message"
 git checkout
 HelloWorld.md
